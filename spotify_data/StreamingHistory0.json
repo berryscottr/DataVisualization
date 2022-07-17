@@ -1,0 +1,20 @@
+[
+  {
+    "endTime" : "2019–01–26 07:49",
+    "artistName" : "Slayer",
+    "trackName" : "Chemical Warfare",
+    "msPlayed" : 8850
+  },
+  {
+    "endTime" : "2019–01–26 07:51",
+    "artistName" : "Yung Gravy",
+    "trackName" : "Martha Stewart",
+    "msPlayed" : 5678
+  },
+  {
+    "endTime" : "2019–01–26 07:47",
+    "artistName" : "Yung Gravy",
+    "trackName" : "Knockout",
+    "msPlayed" : 2345
+  }
+]
